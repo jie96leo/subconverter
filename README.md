@@ -74,7 +74,7 @@ If you need to merge two or more subscription, you should join them with '|' bef
 
 Example:
 
-```txt
+```1txt
 You have 2 subscriptions and you want to merge them and generate a Clash subscription:
 1. https://dler.cloud/subscribe/ABCDE?clash=vmess
 2. https://rich.cloud/subscribe/ABCDE?clash=vmess
